@@ -26,7 +26,7 @@ int main(void){
 	printf("a*b = %d\n\n", f);
 
 	printf("Days of the week:\n");
-	for (i=0; i<8; i++) {
+	for (i=0; i<7; i++) {
 		printf("Day[%d] = %s\n", i, day[i]);
 	}
 
